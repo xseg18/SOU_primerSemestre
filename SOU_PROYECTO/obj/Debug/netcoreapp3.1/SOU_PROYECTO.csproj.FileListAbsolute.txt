@@ -1,0 +1,11 @@
+C:\Users\JImena\OneDrive\Documentos\progra U\practica\SOU_PROYECTO\bin\Debug\netcoreapp3.1\SOU_PROYECTO.exe
+C:\Users\JImena\OneDrive\Documentos\progra U\practica\SOU_PROYECTO\bin\Debug\netcoreapp3.1\SOU_PROYECTO.deps.json
+C:\Users\JImena\OneDrive\Documentos\progra U\practica\SOU_PROYECTO\bin\Debug\netcoreapp3.1\SOU_PROYECTO.runtimeconfig.json
+C:\Users\JImena\OneDrive\Documentos\progra U\practica\SOU_PROYECTO\bin\Debug\netcoreapp3.1\SOU_PROYECTO.runtimeconfig.dev.json
+C:\Users\JImena\OneDrive\Documentos\progra U\practica\SOU_PROYECTO\bin\Debug\netcoreapp3.1\SOU_PROYECTO.dll
+C:\Users\JImena\OneDrive\Documentos\progra U\practica\SOU_PROYECTO\bin\Debug\netcoreapp3.1\SOU_PROYECTO.pdb
+C:\Users\JImena\OneDrive\Documentos\progra U\practica\SOU_PROYECTO\obj\Debug\netcoreapp3.1\SOU_PROYECTO.csprojAssemblyReference.cache
+C:\Users\JImena\OneDrive\Documentos\progra U\practica\SOU_PROYECTO\obj\Debug\netcoreapp3.1\SOU_PROYECTO.AssemblyInfoInputs.cache
+C:\Users\JImena\OneDrive\Documentos\progra U\practica\SOU_PROYECTO\obj\Debug\netcoreapp3.1\SOU_PROYECTO.AssemblyInfo.cs
+C:\Users\JImena\OneDrive\Documentos\progra U\practica\SOU_PROYECTO\obj\Debug\netcoreapp3.1\SOU_PROYECTO.dll
+C:\Users\JImena\OneDrive\Documentos\progra U\practica\SOU_PROYECTO\obj\Debug\netcoreapp3.1\SOU_PROYECTO.pdb
